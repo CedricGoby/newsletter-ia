@@ -219,8 +219,6 @@ Coding has been a challenge for people without a technical background for a long
 https://www.analyticsvidhya.com/blog/2024/09/building-apps-using-llamacoder/  
 Source : Analytics Vidhya
 
-## AGENDA  
-
 ---  
 Cédric Goby / UMR AGAP / INRAE (Institut national de la recherche pour l’agriculture, l’alimentation et l’environnement)  
 **Cette lettre est publiée sous la licence Attribution 4.0 International (CC BY 4.0)**  
